@@ -53,7 +53,7 @@ h4,
 h5,
 h6,
 .navbar-default {
-    font-family: 'Lato', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
     font-weight: 400;
     line-height: 1.25;
     text-rendering: optimizeLegibility;
@@ -107,7 +107,7 @@ figcaption {
     line-height: 1.25;
     font-size: 1rem;
     margin-bottom: 1.65rem;
-    font-family: 'Lato', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
     counter-increment: captions;
 }
 
@@ -164,7 +164,7 @@ pre {
 }
 
 .section-heading p {
-    font-family: 'Lato', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
     font-weight: 400;
     font-size: 1.1rem;
     color: #b2b2b2;
