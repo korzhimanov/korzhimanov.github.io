@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Артём Коржиманов</title>
-    <link>https://korzhimanov.ru/home/</link>
+    <link>https://korzhimanov.github.io/home/</link>
     <description>Recent content in Homes on Артём Коржиманов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
     <lastBuildDate>Sat, 20 Aug 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://korzhimanov.ru/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://korzhimanov.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>https://korzhimanov.ru/home/about/</link>
+      <link>https://korzhimanov.github.io/home/about/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.ru/home/about/</guid>
+      <guid>https://korzhimanov.github.io/home/about/</guid>
       <description>
 
 &lt;h1 id=&#34;добро-пожаловать&#34;&gt;Добро пожаловать!&lt;/h1&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title>Преподавание</title>
-      <link>https://korzhimanov.ru/home/teaching/</link>
+      <link>https://korzhimanov.github.io/home/teaching/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.ru/home/teaching/</guid>
+      <guid>https://korzhimanov.github.io/home/teaching/</guid>
       <description>&lt;p&gt;Преподаю курс &amp;ldquo;Физика атома и атомного ядра&amp;rdquo; третьему курсу радиофизического факультета ННГУ.&lt;/p&gt;
 </description>
     </item>
