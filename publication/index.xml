@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Артём Коржиманов</title>
-    <link>https://korzhimanov.github.io/publication/</link>
+    <link>http://korzhimanov.ru/publication/</link>
     <description>Recent content in Publications on Артём Коржиманов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
     <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://korzhimanov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Particle-in-Cell laser-plasma simulation on Xeon Phi coprocessors</title>
-      <link>https://korzhimanov.github.io/publication/2016-cpc/</link>
+      <link>http://korzhimanov.ru/publication/2016-cpc/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2016-cpc/</guid>
+      <guid>http://korzhimanov.ru/publication/2016-cpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Трехмерное моделирование плазмы методом частиц в ячейках на Intel Xeon Phi: оптимизация вычислений и примеры использования</title>
-      <link>https://korzhimanov.github.io/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</link>
+      <link>http://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</guid>
+      <guid>http://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Генерация сверхмощным лазерным излучением пучков ускоренных многозарядных ионов с энергией порядка нескольких десятков МэВ/нуклон для задач ядерной физики</title>
-      <link>https://korzhimanov.github.io/publication/2013-qe/</link>
+      <link>http://korzhimanov.ru/publication/2013-qe/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2013-qe/</guid>
+      <guid>http://korzhimanov.ru/publication/2013-qe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating high-energy highly charged ion beams from petawatt-class laser interactions with compound targets</title>
-      <link>https://korzhimanov.github.io/publication/2012-prl/</link>
+      <link>http://korzhimanov.ru/publication/2012-prl/</link>
       <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2012-prl/</guid>
+      <guid>http://korzhimanov.ru/publication/2012-prl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast electron generation using PW-class PEARL facility</title>
-      <link>https://korzhimanov.github.io/publication/2011-nimpra/</link>
+      <link>http://korzhimanov.ru/publication/2011-nimpra/</link>
       <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2011-nimpra/</guid>
+      <guid>http://korzhimanov.ru/publication/2011-nimpra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultrarelativistic nanoplasmonics as a route towards extreme-intensity attosecond pulses</title>
-      <link>https://korzhimanov.github.io/publication/2011-pre/</link>
+      <link>http://korzhimanov.ru/publication/2011-pre/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2011-pre/</guid>
+      <guid>http://korzhimanov.ru/publication/2011-pre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Экстремальные световые поля и их фундаментальные приложения</title>
-      <link>https://korzhimanov.github.io/publication/2011-ras/</link>
+      <link>http://korzhimanov.ru/publication/2011-ras/</link>
       <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2011-ras/</guid>
+      <guid>http://korzhimanov.ru/publication/2011-ras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Горизонты петаваттных лазерных комплексов</title>
-      <link>https://korzhimanov.github.io/publication/2011-ufn/</link>
+      <link>http://korzhimanov.ru/publication/2011-ufn/</link>
       <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2011-ufn/</guid>
+      <guid>http://korzhimanov.ru/publication/2011-ufn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relativistic self-induced transparency effect during ultraintense laser interaction with overdense plasmas: Why it occurs and its use for ultrashort electron bunch generation</title>
-      <link>https://korzhimanov.github.io/publication/2010-pop/</link>
+      <link>http://korzhimanov.ru/publication/2010-pop/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2010-pop/</guid>
+      <guid>http://korzhimanov.ru/publication/2010-pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasma-field structures during relativistic laser interaction with overdense plasmas at finite electron temperatures</title>
-      <link>https://korzhimanov.github.io/publication/2009-epjd/</link>
+      <link>http://korzhimanov.ru/publication/2009-epjd/</link>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2009-epjd/</guid>
+      <guid>http://korzhimanov.ru/publication/2009-epjd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multicascade proton acceleration by a superintense laser pulse in the regime of relativistically induced slab transparency</title>
-      <link>https://korzhimanov.github.io/publication/2009-prl/</link>
+      <link>http://korzhimanov.ru/publication/2009-prl/</link>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2009-prl/</guid>
+      <guid>http://korzhimanov.ru/publication/2009-prl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Об ускорении протонов и легких ионов до энергий ГэВ при взаимодействии сверхсильного лазерного излучения со структурированной плазменной мишенью</title>
-      <link>https://korzhimanov.github.io/publication/2007-jetpl/</link>
+      <link>http://korzhimanov.ru/publication/2007-jetpl/</link>
       <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2007-jetpl/</guid>
+      <guid>http://korzhimanov.ru/publication/2007-jetpl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>О взаимодействии релятивистски сильных электромагнитных волн со слоем закритической плазмы</title>
-      <link>https://korzhimanov.github.io/publication/2007-jetp/</link>
+      <link>http://korzhimanov.ru/publication/2007-jetp/</link>
       <pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://korzhimanov.github.io/publication/2007-jetp/</guid>
+      <guid>http://korzhimanov.ru/publication/2007-jetp/</guid>
       <description></description>
     </item>
     
