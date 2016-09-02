@@ -24,7 +24,7 @@
 
 &lt;p&gt;Кроме того, я активно занимаюсь популяризацией науки. Уже несколько лет веду свой блог &lt;a href=&#34;http://physh.ru&#34;&gt;physh.ru&lt;/a&gt;. Недавно завёл себе ещё и &lt;a href=&#34;https://telegram.me/physh&#34;&gt;канал в телеграмме&lt;/a&gt; &amp;mdash; подписывайтесь!&lt;/p&gt;
 
-&lt;p&gt;Иногда я пишу научно-популярные тексты для СМИ. Например, меня можно почитать в &lt;a href=&#34;http://nplus1.ru/&#34;&gt;N+1&lt;/a&gt; и на &lt;a href=&#34;http://elementy.ru/news?theme=5271914&#34;&gt;сайте &amp;ldquo;Элементы&amp;rdquo;&lt;/a&gt;. Если приглашают, не отказываюсь и от научно-популярных лекций.&lt;/p&gt;
+&lt;p&gt;Иногда я пишу научно-популярные тексты для СМИ. Например, меня можно почитать в &lt;a href=&#34;http://nplus1.ru/&#34;&gt;N+1&lt;/a&gt; и на &lt;a href=&#34;http://elementy.ru/news?theme=5271914&#34;&gt;сайте &amp;laquo;Элементы&amp;raquo;&lt;/a&gt;. Если приглашают, не отказываюсь и от научно-популярных лекций.&lt;/p&gt;
 </description>
     </item>
     
@@ -151,7 +151,11 @@
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://korzhimanov.ru/home/teaching/</guid>
-      <description>&lt;p&gt;Преподаю курс &amp;ldquo;Физика атома и атомного ядра&amp;rdquo; третьему курсу радиофизического факультета ННГУ.&lt;/p&gt;
+      <description>&lt;p&gt;Преподаю следующие курсы:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;laquo;&lt;a href=&#34;http://korzhimanov.ru/teaching/atomic-physics&#34;&gt;Физика атома и атомного ядра&lt;/a&gt;&amp;raquo; третьему курсу радиофизического факультета ННГУ.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
