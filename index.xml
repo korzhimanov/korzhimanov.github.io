@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hybrid CPU &#43; Xeon Phi implementation of the Particle-in-Cell method for plasma simulation</title>
+      <link>http://korzhimanov.ru/publication/2016-sfi/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2016-sfi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
@@ -143,20 +152,6 @@
       
       <guid>http://korzhimanov.ru/publication/2007-jetp/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Преподавание</title>
-      <link>http://korzhimanov.ru/home/teaching/</link>
-      <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://korzhimanov.ru/home/teaching/</guid>
-      <description>&lt;p&gt;Преподаю следующие курсы:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&amp;laquo;&lt;a href=&#34;http://korzhimanov.ru/teaching/atomic-physics&#34;&gt;Физика атома и атомного ядра&lt;/a&gt;&amp;raquo; третьему курсу радиофизического факультета ННГУ.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
