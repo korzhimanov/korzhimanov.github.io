@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://korzhimanov.ru/</loc>
+    <loc>http://korzhimanov.ru/home/teaching/</loc>
     <lastmod>2017-01-04T21:00:00+00:00</lastmod>
   </url>
   
@@ -82,8 +83,31 @@
   </url>
   
   <url>
-    <loc>http://korzhimanov.ru/home/teaching/</loc>
+    <loc>http://korzhimanov.ru/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/home/</loc>
     <lastmod>2017-01-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/publication/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/</loc>
+    <lastmod>2017-01-04T21:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
