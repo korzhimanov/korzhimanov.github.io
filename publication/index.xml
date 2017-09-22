@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Experimental evidence for short-pulse laser heating of solid-density target to high bulk temperatures</title>
+      <link>http://korzhimanov.ru/publication/2017-scirep/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2017-scirep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hybrid CPU &#43; Xeon Phi implementation of the Particle-in-Cell method for plasma simulation</title>
