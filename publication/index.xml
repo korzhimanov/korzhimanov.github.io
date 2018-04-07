@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Self-generated surface magnetic fields inhibit laser-driven sheath acceleration of high-energy protons</title>
+      <link>http://korzhimanov.ru/publication/2018-natcomm/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2018-natcomm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards attosecond-scale highly directed GeV gamma-ray sources with multipetawatt-class lasers</title>
