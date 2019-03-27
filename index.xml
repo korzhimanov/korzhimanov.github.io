@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Wed, 04 Jan 2017 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,11 @@
     <item>
       <title>Преподавание</title>
       <link>http://korzhimanov.ru/home/teaching/</link>
-      <pubDate>Wed, 04 Jan 2017 21:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://korzhimanov.ru/home/teaching/</guid>
       <description>Читаю курсы:
- «Физика атома и атомного ядра» (конспект лекций: HTML PDF).  </description>
+ «Физика атома и атомного ядра» (конспект лекций: HTML PDF). «Численное моделирование кинетических уравнений для плазмы»  PDF: 1 2 3 Jupyter Notebook: 1 2 3   </description>
     </item>
     
     <item>
