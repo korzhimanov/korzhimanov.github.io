@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Numerical study of non-gyrotropic electron pressure effects in collisionless magnetic reconnection</title>
+      <link>http://korzhimanov.ru/publication/2021-pop/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2021-pop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Влияние конечности массы ионов на эффект релятивистской самоиндуцированной прозрачности плазменных слоев с резкой границей</title>
