@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laboratory modelling of equatorial ‘tongue’ accretion channels in young stellar objects caused by the Rayleigh-Taylor instability</title>
+      <link>http://korzhimanov.ru/publication/2022-aa/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2022-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation of Cold Magnetized Relativistic Plasmas at the Rear of Thin Foils Irradiated by Ultra-High-Intensity Laser Pulses</title>
+      <link>http://korzhimanov.ru/publication/2021-applsci/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2021-applsci/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Numerical study of non-gyrotropic electron pressure effects in collisionless magnetic reconnection</title>
