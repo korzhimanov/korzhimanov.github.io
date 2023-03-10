@@ -8,6 +8,26 @@
   </url>
   
   <url>
+    <loc>http://korzhimanov.ru/home/about/</loc>
+    <lastmod>2023-03-10T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/publication/2023-mre/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/publication/2023-photonics/</loc>
+    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://korzhimanov.ru/publication/2022-prb/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://korzhimanov.ru/publication/2022-aa/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +65,6 @@
   <url>
     <loc>http://korzhimanov.ru/publication/2017-scirep/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://korzhimanov.ru/home/about/</loc>
-    <lastmod>2017-01-04T21:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,7 +150,7 @@
   
   <url>
     <loc>http://korzhimanov.ru/publication/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

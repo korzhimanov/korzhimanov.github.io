@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Generation of synchronized x-rays and mid-infrared pulses by Doppler-shifting of relativistically intense radiation from near-critical-density plasmas</title>
+      <link>http://korzhimanov.ru/publication/2023-mre/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2023-mre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of a Femtosecond-Scale Temporal Structure of a Laser Driver on Generation of Betatron Radiation by Wakefield Accelerated Electrons</title>
+      <link>http://korzhimanov.ru/publication/2023-photonics/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2023-photonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized light emission from graphene induced by terahertz pulses</title>
+      <link>http://korzhimanov.ru/publication/2022-prb/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2022-prb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Laboratory modelling of equatorial ‘tongue’ accretion channels in young stellar objects caused by the Rayleigh-Taylor instability</title>

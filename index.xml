@@ -23,6 +23,43 @@
     </item>
     
     <item>
+      <title>about</title>
+      <link>http://korzhimanov.ru/home/about/</link>
+      <pubDate>Fri, 10 Mar 2023 05:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/home/about/</guid>
+      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь теорией взаимодействия сверхсильных лазерных полей с веществом. В частности, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
+Кроме того, я активно занимаюсь популяризацией науки. Уже несколько лет веду свой блог physh.ru, а также канал в телеграме — подписывайтесь!</description>
+    </item>
+    
+    <item>
+      <title>Generation of synchronized x-rays and mid-infrared pulses by Doppler-shifting of relativistically intense radiation from near-critical-density plasmas</title>
+      <link>http://korzhimanov.ru/publication/2023-mre/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2023-mre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of a Femtosecond-Scale Temporal Structure of a Laser Driver on Generation of Betatron Radiation by Wakefield Accelerated Electrons</title>
+      <link>http://korzhimanov.ru/publication/2023-photonics/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2023-photonics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarized light emission from graphene induced by terahertz pulses</title>
+      <link>http://korzhimanov.ru/publication/2022-prb/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://korzhimanov.ru/publication/2022-prb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Laboratory modelling of equatorial ‘tongue’ accretion channels in young stellar objects caused by the Rayleigh-Taylor instability</title>
       <link>http://korzhimanov.ru/publication/2022-aa/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -92,16 +129,6 @@
       
       <guid>http://korzhimanov.ru/publication/2017-scirep/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://korzhimanov.ru/home/about/</link>
-      <pubDate>Wed, 04 Jan 2017 21:00:00 +0000</pubDate>
-      
-      <guid>http://korzhimanov.ru/home/about/</guid>
-      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь теорией взаимодействия сверхсильных лазерных полей с веществом. В частности, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
-Кроме того, я активно занимаюсь популяризацией науки. Уже несколько лет веду свой блог physh.ru, а с недавнего времени ещё и каналы в телеграме и Яндекс.</description>
     </item>
     
     <item>
