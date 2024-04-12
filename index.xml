@@ -2,258 +2,258 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Артём Коржиманов</title>
-    <link>http://korzhimanov.ru/</link>
+    <link>https://korzhimanov.ru/</link>
     <description>Recent content on Артём Коржиманов</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
     <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Преподавание</title>
-      <link>http://korzhimanov.ru/home/teaching/</link>
+      <link>https://korzhimanov.ru/home/teaching/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/home/teaching/</guid>
+      <guid>https://korzhimanov.ru/home/teaching/</guid>
       <description>Читаю курсы:
  «Физика атома и атомного ядра» (конспект лекций: HTML PDF). «Численное моделирование кинетических уравнений для плазмы»  PDF: 1 2 3 Jupyter Notebook: 1 2 3   </description>
     </item>
     
     <item>
       <title>about</title>
-      <link>http://korzhimanov.ru/home/about/</link>
+      <link>https://korzhimanov.ru/home/about/</link>
       <pubDate>Fri, 10 Mar 2023 05:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/home/about/</guid>
+      <guid>https://korzhimanov.ru/home/about/</guid>
       <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь теорией взаимодействия сверхсильных лазерных полей с веществом. В частности, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
 Кроме того, я активно занимаюсь популяризацией науки. Уже несколько лет веду свой блог physh.ru, а также канал в телеграме — подписывайтесь!</description>
     </item>
     
     <item>
       <title>Generation of synchronized x-rays and mid-infrared pulses by Doppler-shifting of relativistically intense radiation from near-critical-density plasmas</title>
-      <link>http://korzhimanov.ru/publication/2023-mre/</link>
+      <link>https://korzhimanov.ru/publication/2023-mre/</link>
       <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2023-mre/</guid>
+      <guid>https://korzhimanov.ru/publication/2023-mre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of a Femtosecond-Scale Temporal Structure of a Laser Driver on Generation of Betatron Radiation by Wakefield Accelerated Electrons</title>
-      <link>http://korzhimanov.ru/publication/2023-photonics/</link>
+      <link>https://korzhimanov.ru/publication/2023-photonics/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2023-photonics/</guid>
+      <guid>https://korzhimanov.ru/publication/2023-photonics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polarized light emission from graphene induced by terahertz pulses</title>
-      <link>http://korzhimanov.ru/publication/2022-prb/</link>
+      <link>https://korzhimanov.ru/publication/2022-prb/</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2022-prb/</guid>
+      <guid>https://korzhimanov.ru/publication/2022-prb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laboratory modelling of equatorial ‘tongue’ accretion channels in young stellar objects caused by the Rayleigh-Taylor instability</title>
-      <link>http://korzhimanov.ru/publication/2022-aa/</link>
+      <link>https://korzhimanov.ru/publication/2022-aa/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2022-aa/</guid>
+      <guid>https://korzhimanov.ru/publication/2022-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of Cold Magnetized Relativistic Plasmas at the Rear of Thin Foils Irradiated by Ultra-High-Intensity Laser Pulses</title>
-      <link>http://korzhimanov.ru/publication/2021-applsci/</link>
+      <link>https://korzhimanov.ru/publication/2021-applsci/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2021-applsci/</guid>
+      <guid>https://korzhimanov.ru/publication/2021-applsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical study of non-gyrotropic electron pressure effects in collisionless magnetic reconnection</title>
-      <link>http://korzhimanov.ru/publication/2021-pop/</link>
+      <link>https://korzhimanov.ru/publication/2021-pop/</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2021-pop/</guid>
+      <guid>https://korzhimanov.ru/publication/2021-pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Влияние конечности массы ионов на эффект релятивистской самоиндуцированной прозрачности плазменных слоев с резкой границей</title>
-      <link>http://korzhimanov.ru/publication/2020-qe/</link>
+      <link>https://korzhimanov.ru/publication/2020-qe/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2020-qe/</guid>
+      <guid>https://korzhimanov.ru/publication/2020-qe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Стационарные релятивистские электронные вихри в холодной плазме с неподвижными ионами</title>
-      <link>http://korzhimanov.ru/publication/2019-rqe/</link>
+      <link>https://korzhimanov.ru/publication/2019-rqe/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2019-rqe/</guid>
+      <guid>https://korzhimanov.ru/publication/2019-rqe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-generated surface magnetic fields inhibit laser-driven sheath acceleration of high-energy protons</title>
-      <link>http://korzhimanov.ru/publication/2018-natcomm/</link>
+      <link>https://korzhimanov.ru/publication/2018-natcomm/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2018-natcomm/</guid>
+      <guid>https://korzhimanov.ru/publication/2018-natcomm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards attosecond-scale highly directed GeV gamma-ray sources with multipetawatt-class lasers</title>
-      <link>http://korzhimanov.ru/publication/2017-jopt/</link>
+      <link>https://korzhimanov.ru/publication/2017-jopt/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2017-jopt/</guid>
+      <guid>https://korzhimanov.ru/publication/2017-jopt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental evidence for short-pulse laser heating of solid-density target to high bulk temperatures</title>
-      <link>http://korzhimanov.ru/publication/2017-scirep/</link>
+      <link>https://korzhimanov.ru/publication/2017-scirep/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2017-scirep/</guid>
+      <guid>https://korzhimanov.ru/publication/2017-scirep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid CPU &#43; Xeon Phi implementation of the Particle-in-Cell method for plasma simulation</title>
-      <link>http://korzhimanov.ru/publication/2016-sfi/</link>
+      <link>https://korzhimanov.ru/publication/2016-sfi/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2016-sfi/</guid>
+      <guid>https://korzhimanov.ru/publication/2016-sfi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particle-in-Cell laser-plasma simulation on Xeon Phi coprocessors</title>
-      <link>http://korzhimanov.ru/publication/2016-cpc/</link>
+      <link>https://korzhimanov.ru/publication/2016-cpc/</link>
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2016-cpc/</guid>
+      <guid>https://korzhimanov.ru/publication/2016-cpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Трехмерное моделирование плазмы методом частиц в ячейках на Intel Xeon Phi: оптимизация вычислений и примеры использования</title>
-      <link>http://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</link>
+      <link>https://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</guid>
+      <guid>https://korzhimanov.ru/publication/2015-%D0%B2%D1%8B%D1%87%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Генерация сверхмощным лазерным излучением пучков ускоренных многозарядных ионов с энергией порядка нескольких десятков МэВ/нуклон для задач ядерной физики</title>
-      <link>http://korzhimanov.ru/publication/2013-qe/</link>
+      <link>https://korzhimanov.ru/publication/2013-qe/</link>
       <pubDate>Wed, 20 Mar 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2013-qe/</guid>
+      <guid>https://korzhimanov.ru/publication/2013-qe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating high-energy highly charged ion beams from petawatt-class laser interactions with compound targets</title>
-      <link>http://korzhimanov.ru/publication/2012-prl/</link>
+      <link>https://korzhimanov.ru/publication/2012-prl/</link>
       <pubDate>Fri, 14 Dec 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2012-prl/</guid>
+      <guid>https://korzhimanov.ru/publication/2012-prl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast electron generation using PW-class PEARL facility</title>
-      <link>http://korzhimanov.ru/publication/2011-nimpra/</link>
+      <link>https://korzhimanov.ru/publication/2011-nimpra/</link>
       <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2011-nimpra/</guid>
+      <guid>https://korzhimanov.ru/publication/2011-nimpra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultrarelativistic nanoplasmonics as a route towards extreme-intensity attosecond pulses</title>
-      <link>http://korzhimanov.ru/publication/2011-pre/</link>
+      <link>https://korzhimanov.ru/publication/2011-pre/</link>
       <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2011-pre/</guid>
+      <guid>https://korzhimanov.ru/publication/2011-pre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Экстремальные световые поля и их фундаментальные приложения</title>
-      <link>http://korzhimanov.ru/publication/2011-ras/</link>
+      <link>https://korzhimanov.ru/publication/2011-ras/</link>
       <pubDate>Mon, 20 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2011-ras/</guid>
+      <guid>https://korzhimanov.ru/publication/2011-ras/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Горизонты петаваттных лазерных комплексов</title>
-      <link>http://korzhimanov.ru/publication/2011-ufn/</link>
+      <link>https://korzhimanov.ru/publication/2011-ufn/</link>
       <pubDate>Thu, 20 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2011-ufn/</guid>
+      <guid>https://korzhimanov.ru/publication/2011-ufn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relativistic self-induced transparency effect during ultraintense laser interaction with overdense plasmas: Why it occurs and its use for ultrashort electron bunch generation</title>
-      <link>http://korzhimanov.ru/publication/2010-pop/</link>
+      <link>https://korzhimanov.ru/publication/2010-pop/</link>
       <pubDate>Tue, 06 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2010-pop/</guid>
+      <guid>https://korzhimanov.ru/publication/2010-pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plasma-field structures during relativistic laser interaction with overdense plasmas at finite electron temperatures</title>
-      <link>http://korzhimanov.ru/publication/2009-epjd/</link>
+      <link>https://korzhimanov.ru/publication/2009-epjd/</link>
       <pubDate>Thu, 09 Jul 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2009-epjd/</guid>
+      <guid>https://korzhimanov.ru/publication/2009-epjd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multicascade proton acceleration by a superintense laser pulse in the regime of relativistically induced slab transparency</title>
-      <link>http://korzhimanov.ru/publication/2009-prl/</link>
+      <link>https://korzhimanov.ru/publication/2009-prl/</link>
       <pubDate>Thu, 07 May 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2009-prl/</guid>
+      <guid>https://korzhimanov.ru/publication/2009-prl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Об ускорении протонов и легких ионов до энергий ГэВ при взаимодействии сверхсильного лазерного излучения со структурированной плазменной мишенью</title>
-      <link>http://korzhimanov.ru/publication/2007-jetpl/</link>
+      <link>https://korzhimanov.ru/publication/2007-jetpl/</link>
       <pubDate>Sat, 10 Nov 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2007-jetpl/</guid>
+      <guid>https://korzhimanov.ru/publication/2007-jetpl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>О взаимодействии релятивистски сильных электромагнитных волн со слоем закритической плазмы</title>
-      <link>http://korzhimanov.ru/publication/2007-jetp/</link>
+      <link>https://korzhimanov.ru/publication/2007-jetp/</link>
       <pubDate>Sat, 20 Oct 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://korzhimanov.ru/publication/2007-jetp/</guid>
+      <guid>https://korzhimanov.ru/publication/2007-jetp/</guid>
       <description></description>
     </item>
     
