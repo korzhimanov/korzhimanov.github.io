@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://korzhimanov.ru/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Laboratory modeling of YSO jets collimation by a large-scale divergent interstellar magnetic field</title>
+      <link>https://korzhimanov.ru/publication/2024-aa/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2024-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eXawatt Center for Extreme Light Studies</title>
+      <link>https://korzhimanov.ru/publication/2023-hplse/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2023-hplse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Достижение давления более 1 Гбар в мишенях твердотельной плотности при торможении лазерно-ускоренных ионов</title>
+      <link>https://korzhimanov.ru/publication/2023-qe-3/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2023-qe-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Релятивистское магнитное пересоединение в сталкивающихся плазменных облаках, сгенерированных несколькими сверхмощными лазерными импульсами</title>
+      <link>https://korzhimanov.ru/publication/2023-qe-2/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2023-qe-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Эффективная генерация излучения среднего ИК диапазона за счёт доплеровского эффекта при отражении интенсивных лазерных импульсов от околокритической плазмы</title>
+      <link>https://korzhimanov.ru/publication/2023-qe-1/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2023-qe-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generation of synchronized x-rays and mid-infrared pulses by Doppler-shifting of relativistically intense radiation from near-critical-density plasmas</title>
