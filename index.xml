@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,39 @@
     <item>
       <title>Преподавание</title>
       <link>https://korzhimanov.ru/home/teaching/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://korzhimanov.ru/home/teaching/</guid>
       <description>Читаю курсы:
- «Физика атома и атомного ядра» (конспект лекций:  PDF). «Численное моделирование кинетических уравнений для плазмы»  PDF: 1 2 3 Jupyter Notebook: 1 2 3   </description>
+ «Физика атома и атомного ядра» (конспект лекций:  PDF). «Численное моделирование кинетических уравнений для плазмы»  PDF: 1 2 3 4 5   </description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://korzhimanov.ru/home/about/</link>
+      <pubDate>Fri, 07 Feb 2025 05:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/home/about/</guid>
+      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь сильно неравновесной динамикой плазмы в электромагнитных полях. В частности, теорией взаимодействия сверхсильных лазерных полей с веществом, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
+Кроме того, я активно занимаюсь популяризацией науки. Несколько лет вёл свой блог physh.ru, а также канал в телеграме.</description>
+    </item>
+    
+    <item>
+      <title>Model for Proton Acceleration in Strongly Self-Magnetized Sheath Produced by Ultra-High-Intensity Sub-Picosecond Laser Pulses</title>
+      <link>https://korzhimanov.ru/publication/2025-qbs/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2025-qbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical simulation of coherent summation of laser beams in the presence of non-idealities in the dipole focusing system</title>
+      <link>https://korzhimanov.ru/publication/2025-ao/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2025-ao/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -65,16 +93,6 @@
       
       <guid>https://korzhimanov.ru/publication/2023-qe-1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://korzhimanov.ru/home/about/</link>
-      <pubDate>Fri, 10 Mar 2023 05:00:00 +0000</pubDate>
-      
-      <guid>https://korzhimanov.ru/home/about/</guid>
-      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь теорией взаимодействия сверхсильных лазерных полей с веществом. В частности, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
-Кроме того, я активно занимаюсь популяризацией науки. Уже несколько лет веду свой блог physh.ru, а также канал в телеграме — подписывайтесь!</description>
     </item>
     
     <item>
