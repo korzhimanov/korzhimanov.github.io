@@ -4,17 +4,22 @@
   
   <url>
     <loc>https://korzhimanov.ru/home/teaching/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://korzhimanov.ru/home/about/</loc>
+    <lastmod>2026-02-16T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://korzhimanov.ru/publication/2026-mre/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://korzhimanov.ru/publication/2025-pop/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://korzhimanov.ru/home/about/</loc>
-    <lastmod>2025-02-07T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -184,13 +189,13 @@
   
   <url>
     <loc>https://korzhimanov.ru/home/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://korzhimanov.ru/publication/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -201,7 +206,7 @@
   
   <url>
     <loc>https://korzhimanov.ru/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

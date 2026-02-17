@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Текстовое содержимое этого сайта доступно по &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/deed.ru&#34;&gt;лицензии Creative Commons Attribution 4.0 International&lt;/a&gt;.</copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://korzhimanov.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,30 @@
     <item>
       <title>Преподавание</title>
       <link>https://korzhimanov.ru/home/teaching/</link>
-      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       
       <guid>https://korzhimanov.ru/home/teaching/</guid>
       <description>Читаю курсы:
- «Физика атома и атомного ядра» (конспект лекций:  PDF). «Численное моделирование кинетических уравнений для плазмы»  PDF: 1 2 3 4 5   </description>
+ «Физика атома и атомного ядра»  конспект лекций  «Численное моделирование кинетических уравнений для плазмы»  учебное пособие конспекты лекций: 1 2 3 4 5 7 8 9 10 11 видео лекций 2026 года  «Цифровая обработка сигналов»  конспекты лекций: 1 2   </description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://korzhimanov.ru/home/about/</link>
+      <pubDate>Mon, 16 Feb 2026 05:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/home/about/</guid>
+      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь сильно неравновесной динамикой плазмы в электромагнитных полях. В частности, теорией взаимодействия сверхсильных лазерных полей с веществом, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
+Кроме того, я активно занимаюсь популяризацией науки. Несколько лет вёл свой блог physh.ru, а также канал в телеграме.</description>
+    </item>
+    
+    <item>
+      <title>Magnetic stagnation of two counterstreaming plasma jets induced by intense laser</title>
+      <link>https://korzhimanov.ru/publication/2026-mre/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://korzhimanov.ru/publication/2026-mre/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -29,16 +48,6 @@
       
       <guid>https://korzhimanov.ru/publication/2025-pop/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://korzhimanov.ru/home/about/</link>
-      <pubDate>Fri, 07 Feb 2025 05:00:00 +0000</pubDate>
-      
-      <guid>https://korzhimanov.ru/home/about/</guid>
-      <description>Добро пожаловать! Привет! Я физик. Живу в Нижнем Новгороде, работаю в Институте прикладной физики РАН. Занимаюсь сильно неравновесной динамикой плазмы в электромагнитных полях. В частности, теорией взаимодействия сверхсильных лазерных полей с веществом, разрабатываю методы лазерно-плазменного ускорения ионов, а также создания сверхъярких источников рентгеновского и гамма-излучения. Подробнее об этом можно почитать в нашем обзоре в УФН.
-Кроме того, я активно занимаюсь популяризацией науки. Несколько лет вёл свой блог physh.ru, а также канал в телеграме.</description>
     </item>
     
     <item>
