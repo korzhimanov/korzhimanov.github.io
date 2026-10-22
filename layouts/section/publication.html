@@ -17,6 +17,7 @@
                         <li>
                             <i class="fa-li fa fa-file-text-o"  aria-hidden="true" style="color:#03396c;font-size:80%;padding-top:6px;"></i>
                             {{ .Title }}
+                            {{ with .Params.authors }}<p class="pub-list-authors">{{ delimit . ", " }}</p>{{ end }}
                             <p class="pub-publication">
                               {{ if .Params.publication_short }}
                                 {{ .Params.publication_short | markdownify }}

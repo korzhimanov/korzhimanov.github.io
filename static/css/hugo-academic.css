@@ -422,6 +422,12 @@ h2.article-title a {
     color: #3170A5;
 }
 
+.pub-list-authors {
+    margin: 0;
+    font-style: italic;
+    color: #555;
+}
+
 .pub-publication {
     color: #090;
     font-size: 1em;
