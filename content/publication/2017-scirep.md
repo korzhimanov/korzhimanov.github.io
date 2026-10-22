@@ -13,6 +13,7 @@ title = "Experimental evidence for short-pulse laser heating of solid-density ta
 url_code = ""
 url_dataset = ""
 url_pdf = "http://rdcu.be/v6Qa"
+url_doi = "https://doi.org/10.1038/s41598-017-11675-2"
 url_project = ""
 url_slides = ""
 url_video = ""

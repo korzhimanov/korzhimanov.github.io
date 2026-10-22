@@ -13,6 +13,7 @@ title = "Об ускорении протонов и легких ионов д�
 url_code = ""
 url_dataset = ""
 url_pdf = "http://www.jetpletters.ac.ru/ps/1824/article_27879.pdf"
+url_doi = "https://doi.org/10.1134/S0021364007210059"
 url_project = ""
 url_slides = ""
 url_video = ""

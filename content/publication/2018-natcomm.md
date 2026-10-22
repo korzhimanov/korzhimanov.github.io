@@ -13,6 +13,7 @@ title = "Self-generated surface magnetic fields inhibit laser-driven sheath acce
 url_code = ""
 url_dataset = ""
 url_pdf = "https://www.nature.com/articles/s41467-017-02436-w.pdf"
+url_doi = "https://doi.org/10.1038/s41467-017-02436-w"
 url_project = ""
 url_slides = ""
 url_video = ""
