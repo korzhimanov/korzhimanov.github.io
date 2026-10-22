@@ -27,6 +27,8 @@
 {{- else }}
 	{{- $pages = $pctx.Pages }}
 {{- end }}
+{{- /* Skip pages that are not rendered (e.g. homepage blocks in content/home), they have no URL. */}}
+{{- $pages = where $pages "Permalink" "ne" "" }}
 {{- $limit := .Site.Config.Services.RSS.Limit }}
 {{- if ge $limit 1 }}
 	{{- $pages = $pages | first $limit }}
