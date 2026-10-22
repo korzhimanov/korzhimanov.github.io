@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      # The Academic theme and custom layouts were ported to Hugo 0.168.0; pin exact versions when upgrading.
+      # Templates (derived from the Academic theme) target Hugo 0.168.0; pin exact versions when upgrading.
       - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.168.0'

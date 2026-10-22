@@ -2,7 +2,6 @@ baseurl = "https://korzhimanov.ru/"
 title = "Артём Коржиманов"
 copyright = '''Текстовое содержимое этого сайта доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ru">лицензии Creative Commons Attribution 4.0 International</a>.'''
 locale = "ru-RU"
-theme = "academic"
 
 # Tags and categories are not used: do not generate taxonomy pages.
 disableKinds = ["taxonomy", "term"]

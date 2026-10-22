@@ -1,3 +1,5 @@
+<!-- Шаблоны в layouts/, стили, шрифты и скрипты в static/ и архетип в archetypes/ основаны на теме Hugo Academic 2016 года (https://github.com/gcushen/hugo-academic), которая распространяется на условиях ниже. -->
+
 The MIT License (MIT)
 
 Copyright (c) 2016 George Cushen
