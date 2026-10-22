@@ -16,7 +16,7 @@
                         {{ range .Pages.ByDate.Reverse }}
                         <li>
                             <i class="fa-li fa fa-file-text-o"  aria-hidden="true" style="color:#03396c;font-size:80%;padding-top:6px;"></i>
-                            {{ .Title }}
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
                             {{ with .Params.authors }}<p class="pub-list-authors">{{ delimit . ", " }}</p>{{ end }}
                             <p class="pub-publication">
                               {{ if .Params.publication_short }}
@@ -25,7 +25,7 @@
                                 {{ .Params.publication | markdownify }}
                               {{ end }}
                             </p>
-                            <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
+                            <p>{{ partial "publication_links" (dict "content" . "is_list" 1 "no_details" true) }}</p>
                         </li>
                         {{ end }}
 

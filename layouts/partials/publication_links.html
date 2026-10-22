@@ -1,7 +1,9 @@
 {{ $is_list := .is_list }}
+{{- /* no_details: hide the Details button, e.g. when the title itself links to the page */}}
+{{ $no_details := .no_details }}
 {{ $ := .content }}
 
-{{ if $is_list }}
+{{ if and $is_list (not $no_details) }}
 <a class="btn btn-primary btn-outline btn-xs" href="{{ $.Permalink }}">Details</a>
 {{ end }}
 
