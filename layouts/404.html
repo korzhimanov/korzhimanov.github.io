@@ -13,7 +13,7 @@
     {{ end }}-->
 
     <h2>Последние публикации</h2>
-    {{ range last 20 (where .Data.Pages "Section" "=" "publication") }}
+    {{ range first 20 (where site.RegularPages "Section" "publication") }}
     <ul>
         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     </ul>

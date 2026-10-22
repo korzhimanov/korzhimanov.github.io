@@ -1,0 +1,2 @@
+# PDFs must never go through line-ending conversion (core.autocrlf), or they get corrupted.
+*.pdf binary

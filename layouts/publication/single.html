@@ -10,23 +10,20 @@
                 {{ delimit . ", " }}
                 {{ end }}
             </span>
-            <span class="pull-right">
-                {{ partial "share.html" . }}
-            </span>
         </div>
 
         {{ if .Params.image }}
         <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="pub-banner" itemprop="image">
         {{end}}
 
-        <h3>Abstract</h3>
+        <h3>Аннотация</h3>
         <p class="pub-abstract" itemprop="text">{{ .Params.abstract }}</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Выходные данные</div>
                     <div class="col-xs-12 col-sm-9">{{ .Params.publication | markdownify }}</div>
                 </div>
             </div>
@@ -34,12 +31,33 @@
         </div>
         <div class="visible-xs space-below"></div>
 
+        {{- /* English translation of a Russian-language paper: title_en, authors_en, publication_en */}}
+        {{ with .Params.publication_en }}
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">{{ .Date.Format "January, 2006" }}</div>
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Английская версия</div>
+                    <div class="col-xs-12 col-sm-9" lang="en">
+                        {{ with $.Params.title_en }}<em>{{ . }}</em><br>{{ end }}
+                        {{ with $.Params.authors_en }}{{ delimit . ", " }}<br>{{ end }}
+                        {{ . | markdownify }}
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-1"></div>
+        </div>
+        <div class="visible-xs space-below"></div>
+        {{ end }}
+
+        <div class="row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-10">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Дата</div>
+                    {{- /* Nominative month names: Hugo's ru locale only has the genitive ("февраля") */}}
+                    {{ $months := slice "Январь" "Февраль" "Март" "Апрель" "Май" "Июнь" "Июль" "Август" "Сентябрь" "Октябрь" "Ноябрь" "Декабрь" }}
+                    <div class="col-xs-12 col-sm-9"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ index $months (sub .Date.Month 1) }} {{ .Date.Year }}</time></div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -50,7 +68,7 @@
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
-                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Ссылки</div>
                     <div class="col-xs-12 col-sm-9">
 
                         {{ partial "publication_links" (dict "content" . "is_list" 0) }}
