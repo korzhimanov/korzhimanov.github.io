@@ -1,0 +1,153 @@
+baseurl = "https://korzhimanov.ru/"
+title = "Артём Коржиманов"
+copyright = '''Текстовое содержимое этого сайта доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ru">лицензии Creative Commons Attribution 4.0 International</a>.'''
+languageCode = "ru-RU"
+theme = "academic"
+
+[blackfriday]
+  angledQuotes = true
+
+[params]
+  name = "Артём Коржиманов"
+  role = "Физик и популяризатор"
+  avatar = "portrait.jpg"
+  email = "korzhimanov.artem@gmail.com"
+
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "2.01.2006"
+
+  # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
+  math = false
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+  # Biography section.
+  # Section will only be displayed if `content/home/about.md` exists.
+  [params.about]
+    interests = ["Электродинамика неравновесной плазмы", "Лазеры сверхвысокой пиковой мощности", "Релятивистская лазерная плазма", "Лазерно-плазменные источники частиц и излучения"]
+    str_interests = "Интересы"
+    str_education = "Образование"
+
+    [[params.about.education]]
+      course = "к. ф.-м. н. по физике плазмы"
+      institution = "Институт прикладной физики РАН"
+      year = 2010
+
+    [[params.about.education]]
+      course = "магистр радиофизики"
+      institution = "Нижегородский государственный университет им. Н. И. Лобачевского"
+      year = 2007
+
+    [[params.about.education]]
+      course = "бакалавр радиофизики"
+      institution = "Нижегородский государственный университет им. Н. И. Лобачевского"
+      year = 2005
+
+  # Selected Publications section.
+  # Section will only be displayed if there are publications with `selected = true` in their `+++` preamble.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Избранные публикации"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Последние публикации"
+    subtitle = ""
+    str_all = "Все публикации"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 5
+    title = "Последние записи"
+    subtitle = ""
+    str_all = "Все записи"
+    str_read_more = "Читать дальше"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Проекты"
+    subtitle = ""
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Контакты"
+    subtitle = ""
+    autolink = true  # Automatically link email and phone?
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus, youtube, instagram, soundcloud
+  #   For email icon, use "fa" icon pack, "envelope" icon, and "mailto:your@email.com" as the link.
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:korzhimanov.artem@gmail.com"
+
+  [[params.social]]
+    icon = "vk"
+    icon_pack = "fa"
+    link = "//vk.com/korzhimanov"
+
+[[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0001-7179-9495"
+
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=4e6TacsAAAAJ&hl=ru"
+
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/a/korzhimanov_a_1.html"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/korzhimanov"
+
+
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Главная"
+  url = "#top"
+  weight = 1
+
+[[menu.main]]
+  name = "Публикации"
+  url = "#publications"
+  weight = 2
+
+[[menu.main]]
+  name = "Преподавание"
+  url = "#преподавание"
+  weight = 4
+
+[[menu.main]]
+  name = "Контакты"
+  url = "#contact"
+  weight = 6
