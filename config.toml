@@ -1,11 +1,11 @@
 baseurl = "https://korzhimanov.ru/"
 title = "Артём Коржиманов"
 copyright = '''Текстовое содержимое этого сайта доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ru">лицензии Creative Commons Attribution 4.0 International</a>.'''
-languageCode = "ru-RU"
+locale = "ru-RU"
 theme = "academic"
 
-[blackfriday]
-  angledQuotes = true
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   name = "Артём Коржиманов"
