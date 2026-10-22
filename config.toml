@@ -4,6 +4,9 @@ copyright = '''Текстовое содержимое этого сайта д�
 locale = "ru-RU"
 theme = "academic"
 
+# Tags and categories are not used: do not generate taxonomy pages.
+disableKinds = ["taxonomy", "term"]
+
 [markup.goldmark.renderer]
   unsafe = true
 
